@@ -1,0 +1,133 @@
+        body {
+            background: url("./images/pattern-background-desktop.svg");
+            font-family: [Red Hat Display];
+            color: rgba(0, 0, 0, 0.45);
+            font-size: 15px;
+            background-repeat: no-repeat;
+            background-size: auto;
+        }
+        
+        .center {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 5px;
+            text-align: center;
+            width: 25%;
+            background-color: white;
+            border-radius: 15px;
+        }
+        
+        .center b {
+            color: black;
+        }
+        
+        img {
+            float: left;
+        }
+        
+        .right {
+            float: right;
+            margin: 10px 19px 0 0;
+            font-size: 13px;
+        }
+        
+        .left {
+            margin: 0 45px 0 0
+        }
+        
+        .right:hover {
+            color: rgba(66, 31, 161, );
+        }
+        
+        .attribution {
+            font-size: 11px;
+            text-align: center;
+        }
+        
+        .attribution a {
+            color: hsl(228, 45%, 44%);
+        }
+        
+        #plan {
+            background-color: whitesmoke;
+            width: 80%;
+            height: 65px;
+            padding-top: 1px;
+            border-radius: 0.5em;
+        }
+        
+        #scale {
+            transform: scale(0.65) translate(0, 20%);
+            top: 50%;
+        }
+        
+        .auto {
+            margin: auto;
+        }
+        
+        .ilustration {
+            width: 100%;
+            border-radius: 15px 15px 0 0;
+        }
+        
+        .white {
+            padding: 10px;
+            margin-top: 180px;
+        }
+        
+        .button {
+            border: none;
+            background-color: hsl(245, 75%, 52%);
+            border-radius: 0.5em;
+            color: white;
+            padding: 1em 0 1em 0;
+            margin: 1.5em 0 1.5em 0;
+            width: 80%;
+            box-shadow: 0 10px 10px rgba(0, 0, 0, 0.15);
+        }
+        
+        .button:hover {
+            font-weight: bolder;
+        }
+        
+        .block {
+            display: block;
+            text-decoration: none;
+            margin-bottom: 10px;
+        }
+        
+        @media(max-width: 768px) {
+            body {
+                background: url("./images/pattern-background-mobile.svg");
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+            .center {
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                border-radius: 5px;
+                text-align: center;
+                width: 80%;
+                height: 80%;
+                background-color: white;
+                border-radius: 15px;
+            }
+            .white {
+                padding: 10px;
+                margin-top: 180px;
+                background-color: white;
+                border-radius: 0 0 15px 15px;
+            }
+            .white {
+                margin-top: 48%;
+            }
+            .right {
+                float: right;
+                margin: 0.5em 0.5em 0 0;
+                font-size: 13px;
+            }
+        }
