@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://github.com/adeosunabdulsamad/Frontend-Mentor#:~:text=https%3A//github.com/adeosunabdulsamad/Frontend-Mentor.git)
+- Live Site URL: [https://github.com/adeosunabdulsamad/Frontend-Mentor#:~:text=https%3A//github.com/adeosunabdulsamad/Frontend-Mentor.git](https://github.com/adeosunabdulsamad/Frontend-Mentor#:~:text=https%3A//github.com/adeosunabdulsamad/Frontend-Mentor.git)
 
 ## My process
 
@@ -63,7 +63,7 @@ applied visual design
 
 ### Useful resources
 
-- [Example resource 1](https://www.freecodecamp.org/learn/responsive-web-design) - This helped me with understanding th flexible ways css can be used. I really liked this pattern and will use it going forward.
+- [https://www.freecodecamp.org/learn/responsive-web-design](https://www.freecodecamp.org/learn/responsive-web-design) - This helped me with understanding th flexible ways css can be used. I really liked this pattern and will use it going forward.
 
 ## Author
 
